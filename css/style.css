@@ -381,6 +381,14 @@ header #search input::placeholder{
      padding: 100px 0;
  }
 
+ #pposts-slider .section-title h2{
+     font-weight: 700;
+     font-size: 40px;
+     margin-bottom: 70px;
+
+     
+ }
+
  #pposts-slider .slider-item .p-title{
      font-size: 18px;
      font-weight: 700;
